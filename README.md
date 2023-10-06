@@ -1,7 +1,7 @@
 <h1 align="center">День Добрый! Я <a href="https://www.linkedin.com/in/vova-kharchenko-ba905019b/" target="_blank">Владимир!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">PHP/Laravel - разработчик из Беларуси</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=VovaMolxs&theme=dark&hide_border=true&locale=ru&card_width=600)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=PHP%2FLaravel+-+Web+Developer)](https://git.io/typing-svg)
 <!--
 **VovaMolxs/VovaMolxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
