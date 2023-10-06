@@ -1,7 +1,13 @@
 <h1 align="center">День Добрый! Я <a href="https://www.linkedin.com/in/vova-kharchenko-ba905019b/" target="_blank">Владимир!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">PHP/Laravel - разработчик из Беларуси</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=PHP%2FLaravel+-+Web+Developer)](https://git.io/typing-svg)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vova-kharchenko-ba905019b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div>
+
 <!--
 **VovaMolxs/VovaMolxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
