@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">PHP/Laravel - разработчик из Беларуси</h3>
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/vova-kharchenko-ba905019b/">
+  <a href="https://www.linkedin.com/in/vovakharchenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
